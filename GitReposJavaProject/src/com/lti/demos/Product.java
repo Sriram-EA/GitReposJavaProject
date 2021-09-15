@@ -1,6 +1,8 @@
 package com.lti.demos;
 
 public class Product { 
+	
+// Trying for second commit
 	private int prdId;
 	private String prdName;
 	private double prdCost;
